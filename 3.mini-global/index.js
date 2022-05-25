@@ -28,7 +28,14 @@ window.foo = 'bar';
 
 /*
 예방 방안
+
+1. 전역 변수를 만들지 않는다
+2. 지역 변수를 생성한다
+3. window 혹은 global 영역을 조작하지 않는다
+
 IIFE (즉시 실행 함수식)
+모듈
 Closure 
 let const
+사용하자  => 스코프를 나누는 방법
 */
