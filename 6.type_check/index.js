@@ -55,4 +55,6 @@ console.log(Object.prototype.toString.call(func));
 자바스크립트는 동적으로 타입이 지정되어 타입 검사가 어렵다
 
 타입 검사를 할 때에는 여러 방법을 찾고 신중하게 해야 한다.
+
+타입 검사를 할 때에는 typeof 도 있지만 instanceof 도 있다는 것을 기억
 */
